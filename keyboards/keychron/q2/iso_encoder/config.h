@@ -23,3 +23,6 @@
 
 /* Encoder used pins */
 #define ENCODER_DEFAULT_POS 0x3
+
+/* Enable caps-lock LED */
+#define CAPS_LOCK_LED_INDEX 29
